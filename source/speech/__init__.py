@@ -1,3 +1,9 @@
+# A part of NonVisual Desktop Access (NVDA)
+# This file is covered by the GNU General Public License.
+# See the file COPYING for more details.
+# Copyright (C) 2006-2020 NV Access Limited, Peter Vágner, Aleksey Sadovoy, Babbage B.V., Bill Dengler,
+# Julien Cochuyt
+
 from .speech import (
 	_extendSpeechSequence_addMathForTextInfo,
 	_getSpellingSpeechAddCharMode,
